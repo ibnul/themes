@@ -1,0 +1,461 @@
+@media only screen and (max-width : 1200px) { 
+	#header .head-menu li a{
+		padding: 10px 5px;
+	}	
+	h2.page-title { font-size: 46px; }
+}
+
+@media only screen and (max-width : 1024px) { 
+  h2.page-title { font-size: 34px; width: 100%; top: 45%; }
+ .page-description { padding: 0 3%; }
+  .vc_custom_1499244373127 {
+    background-image: url(http://morenoimmigration.com/wp-content/uploads/2017/07/moreno-ipad.png) !important;
+    background-position: right !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+  }
+  .tp-caption p.slide-des {
+    font-size: 18px !important;
+    line-height: 18px !important;
+    white-space: pre-wrap !important;
+  }
+  .rev_slider .tp-caption a.slide-button {
+    font-size: 12px !important;
+   /* border: 2px solid #fff !important; */
+  }
+
+  .amazingcarousel-next, .amazingcarousel-prev {
+    display: none !important;
+  }
+  #wonderplugincarousel-1 .amazingcarousel-nav { display:block; }
+  .parallax-text { font-size: 24px; }
+  .in-the-heart.vc_custom_1499251151703, .we-approach.vc_custom_1500254381277, .we-approach.vc_custom_1500271253571, .at-moreno-law.vc_custom_1500256200764, .at-moreno-law.vc_custom_1500271867313, #parallax.we-believe-that, .in-the-heart.vc_custom_1500269661510 {
+    padding: 20px 0 !important;
+  }
+  .title-text { padding: 10px 25px;  }
+  .fa.fa-pencil { top: 18px; }
+  .subscribe-text { padding-top: 50px !important; }
+  .media-text { margin: 15px 30px; }
+
+}
+
+@media only screen and (max-width : 991px) { 
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .slider-title { top: 35% !important; }
+    .tp-caption.slider-button { top: 60% !important; }
+    h2.page-title{ top: 35%; }
+    .navbar-collapse.collapse.in {
+        display: block !important;
+        background: #212843 none repeat scroll 0 0;
+        padding: 0 15px 15px;
+    }
+    .navbar-header .collapse, .navbar-toggle {
+        display:block !important;
+    }
+  #header .head-menu li.current-menu-item a::after, #header .head-menu li.current-menu-item a,   #header .head-menu li.current-menu-item a:hover {
+    background: transparent;
+    color: #aaa;
+    content: "";
+  }
+    .navbar-header {
+        float:none;
+    }
+  .navbar-nav>li {
+    float: none;
+  }
+  .header .navbar-brand img {
+    width: 150px;
+    height: auto;
+  }
+  #header.header.tiny {
+    background-color: rgba(33, 40, 67, 1);
+  }
+  #bs-example-navbar-collapse-1 {
+	background: #212843 none repeat scroll 0 0;
+	padding-bottom: 15px;
+	position: relative;
+	z-index: 9999;
+  }
+  .navbar-default .navbar-toggle {
+    border: none;
+  }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+  }
+  .navbar-toggle .icon-bar {
+    display: block;
+    height: 3px;
+    width: 30px;
+    border-radius: unset;
+  } 
+  .menu-social-menu-container {
+    float: none;
+    text-align: center;
+  }
+  .container {
+
+  }
+  .title-text { padding: 10px;  }
+  .know-about-us.vc_custom_1497961085027 {
+    margin-top: -100px; 
+    padding-bottom: 0;
+    background: rgba(0, 0, 0, 0) url("http://morenoimmigration.com/wp-content/uploads/2017/07/about-pad.png") no-repeat scroll right center !important; 
+  }
+  .know-about.vc_custom_1499244373127 {
+    background-image: url(http://morenoimmigration.com/wp-content/uploads/2017/07/moreno-ipad.png) !important;
+    background-position: right !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+  } 
+  .copyright p {
+    padding: 0 100px;
+    text-align: center;
+  }
+  .copyright {
+    margin: 25px 0;
+  }
+  .media-text { margin: 15px 0; }
+  .contact-page-form .fa.fa-pencil {
+    top: 23px;
+  }
+  #wonderplugincarousel-5 .amazingcarousel-hover, #wonderplugincarousel-1 .amazingcarousel-hover { display: block !important; }
+  #wonderplugincarousel-5 .amazingcarousel-title, #wonderplugincarousel-1 .amazingcarousel-title {
+    font-size: 16px !important;
+  }
+
+
+
+}
+@media only screen and (min-width: 920px) and (max-width : 990px) { 
+  .know-about.vc_custom_1499244373127 {
+    padding: 100px 0 !important;
+  }
+}
+
+@media only screen and (max-width : 767px) { 
+
+  .header .navbar-brand img {
+    width: 150px;
+    height: auto;
+  }
+  #header.header.tiny {
+    background-color: rgba(33, 40, 67, 1);
+  }
+  #header .head-menu li.current-menu-item a::after, #header .head-menu li.current-menu-item a,   #header .head-menu li.current-menu-item a:hover {
+    background: transparent;
+    color: #aaa;
+    content: "";
+  }
+  .slider-title {
+    font-size: 44px !important;
+    line-height: 44px !important; 
+    white-space: pre-wrap;
+    position: static;
+    top: 35% !important;
+  }
+  .tp-caption.slider-des {
+    top: 50% !important;
+    position: absolute;
+    
+  }
+  .tp-caption p.slide-des {
+    font-size: 24px !important;
+    line-height: 26px !important;
+    white-space: pre-wrap !important;
+  }
+  .rev_slider .tp-caption a.slide-button {
+    color: #ffffff;
+    font-size: 14px !important;
+  }
+  .tp-caption.slider-button { 
+    top: 65% !important;
+    position: absolute;  
+    padding: 10px 10px 7px !important; 
+    border: 1px solid #fff !important;
+  }
+  .tp-rightarrow.default, .tp-leftarrow.default { opacity: 0.3; }
+  h2.site-title { font-size: 40px; }
+  #bs-example-navbar-collapse-1 {
+    background: #212843 none repeat scroll 0 0;
+    padding-bottom: 15px;
+    position: relative;
+    z-index: 9999;
+  }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+  }
+  .navbar-default .navbar-toggle {
+    border: none;
+  }
+  .navbar-toggle .icon-bar {
+    display: block;
+    height: 3px;
+    width: 30px;
+    border-radius: unset;
+  } 
+  .page-title-img { overflow: hidden; }
+  .page-title-img .featured-img {
+    min-height: 300px;
+    width: auto;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  #wonderplugincarousel-5 .amazingcarousel-title, #wonderplugincarousel-1 .amazingcarousel-title { font-size: 16px !important; }
+  #single-law-areas h2.page-title, #single-law-areas p.area-excerpt { width: 95%; }
+  #single-law-areas h2.page-title {
+    font-size: 34px;
+    top: 30%;
+    white-space: pre-wrap;
+  }
+  h2.page-title { font-size: 34px; width: 100%; }
+  .page-description { padding: 0; }
+  .title-text { padding: 10px; }
+  .amazingcarousel-next, .amazingcarousel-prev {
+    display: none !important;
+  }
+/*************************************** About page *********************************/
+  .vc_custom_1498923992499 { z-index: 99; }
+  #know-about-mob.about-page { margin-top: -150px; }
+  #know-about-mob { display:block; }
+  .know-about-us.vc_custom_1497961085027 {
+    background: transparent !important;
+  }
+  .know-about.vc_custom_1499244373127, .know-about.vc_custom_1500269027354 {
+    background-color: #ededee;
+    background-image: none !important;
+    margin-top: -35px;
+  }
+  .know-about .vc_custom_1497955515925, .vc_custom_1496250126443, .know-about .vc_custom_1499365665409 {
+    padding: 0 !important;
+  }
+  .topbutton {  bottom: 100px; }
+  .fa.fa-pencil { top: 34px; }
+  .media-text { margin: 15px 0 !important; }
+  .contact-page-form .fa.fa-pencil {
+    top: 36px;
+  }
+  .email-div {
+    clear: left;
+  }
+
+
+}
+
+@media only screen and (min-width : 481px) and (max-width : 720px) { 
+  .tp-caption p.slide-des {
+     display: none !important;
+  }
+
+}
+
+
+/********************************************* Mobile CSS *********************************************************/
+@media only screen and (max-width : 480px) {
+  .header .navbar-brand img {
+    width: 150px;
+    height: auto;
+  }
+	h2.job-details-page-title {
+		font-size: 28px;
+	}
+	.job-details-header {
+		top: 20%;
+	}
+	p.job-posted-date {
+		font-size: 16px;
+	}
+	a.job-apply-button {
+		padding: 5px 20px;
+		font-size: 18px;
+	}
+	div.job-title {
+		width: 60%;
+	}
+	.job-button {
+		width: 40%;
+		margin-top: 40px;
+	}
+	.job-button a {
+		font-size:12px;
+	}
+	.mobile-block { display: block; }
+  #header.header.tiny {
+    background-color: rgba(33, 40, 67, 1);
+  }
+  .slider-title {
+    font-size: 44px !important;
+    line-height: 44px !important; 
+    white-space: pre-wrap;
+    position: static;
+    top: 25% !important;
+  }
+  .tp-caption.slider-des {
+    top: 50% !important;
+    position: absolute;
+    
+  }
+  .tp-caption p.slide-des {
+    font-size: 24px !important;
+    line-height: 26px !important;
+    white-space: pre-wrap !important;
+  }
+  .rev_slider .tp-caption a.slide-button {
+    color: #ffffff;
+    font-size: 14px !important;
+  }
+  .tp-caption.slider-button { 
+    top: 80% !important;
+    position: absolute;  
+    padding: 10px 10px 7px !important; 
+    border: 1px solid #fff !important;
+  }
+  .tp-rightarrow.default, .tp-leftarrow.default { opacity: 0.3; }
+  h2.site-title { font-size: 40px; }
+  #bs-example-navbar-collapse-1 {
+    background: #212843 none repeat scroll 0 0;
+    padding-bottom: 15px;
+    position: relative;
+    z-index: 9999;
+  }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+  }
+  .navbar-toggle .icon-bar {
+    display: block;
+    height: 3px;
+    width: 30px;
+    border-radius: unset;
+  } 
+  .social-list li.wpml-ls-item {
+
+  }
+  #header .head-menu li.current-menu-item a::after, #header .head-menu li.current-menu-item a,   #header .head-menu li.current-menu-item a:hover {
+    background: transparent;
+    color: #aaa;
+    content: "";
+  }
+   #header .head-menu li a:hover::after, #header .head-menu li.current-menu-item a::after { width: 0%; }
+  .navbar-default .navbar-toggle {
+    border: none;
+  }
+  .menu-social-menu-container {
+    float: none;
+    text-align: center;
+  }
+  .page-title-img { overflow: hidden; }
+  .page-title-img .featured-img {
+    min-height: 250px;
+    width: auto;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  #single-law-areas.page-title-img .featured-img {
+    min-height: 450px;    
+    width: auto;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  #single-law-areas h2.page-title, #single-law-areas p.area-excerpt { width: 95%; }
+  #single-law-areas h2.page-title {
+    font-size: 34px;
+    top: 30%;
+    white-space: pre-wrap;
+  }
+  h2.page-title { font-size: 34px; width: 100%; }
+  .page-description { padding: 0; }
+  .title-text { padding: 10px; }
+  .know-about.vc_custom_1499244373127, .know-about.vc_custom_1500269027354 {
+    background-color: #ededee;
+    background-image: none !important;
+    margin-top: -35px;
+  }
+  .sec-text { margin-right: 0 !important; }
+  .know-about .vc_custom_1497955515925, .vc_custom_1496250126443, .know-about .vc_custom_1499365665409 {
+    padding: 0 !important;
+  }
+  #wonderplugincarousel-1 .amazingcarousel-nav { display:block; }
+  #know-about-mob { display:block; }
+  #mob-testimonial.vc_custom_1499251935222 {
+    display: block;
+  }
+  #testimonial {
+    display: none;
+  }
+  #mob-testimonial {
+    display: block;
+  }
+  h3.sec-title { font-size: 30px; }
+  p.footer-contact, a.email-id {
+    font-size: 22px;
+  }
+  #wonderplugincarousel-5 .amazingcarousel-hover, #wonderplugincarousel-1 .amazingcarousel-hover { display: block !important; }
+  #wonderplugincarousel-5 .amazingcarousel-title, #wonderplugincarousel-1 .amazingcarousel-title { font-size: 14px !important; }
+  .amazingcarousel-next, .amazingcarousel-prev {
+    display: none !important;
+  }
+  .parallax-text { font-size: 24px; }
+  .in-the-heart.vc_custom_1499251151703, .we-approach.vc_custom_1500254381277, .we-approach.vc_custom_1500271253571, .at-moreno-law.vc_custom_1500256200764, .at-moreno-law.vc_custom_1500271867313, #parallax.we-believe-that, .in-the-heart.vc_custom_1500269661510 {
+    padding: 20px 0 !important;
+  }
+  .widget_wysija_cont.php_wysija {
+    width: 100% !important;
+  }
+  .wysija-paragraph input.wysija-input { width: 100%; }
+  .wysija-submit { clear: left; }
+  #no-spam { margin-bottom: 10px; }
+  .subscribe-text { padding-top: 30px !important; font-size: 26px;}
+  .footer-logo li {
+    display: inline-block;
+    margin-right: 1%;
+    width: 30%;
+  }
+  .footer-logo img {
+    height: auto;
+    width: 100%;
+  }
+/*************************************** About page *********************************/
+  .vc_custom_1498923992499 { z-index: 99; }
+  #know-about-mob.about-page { margin-top: -150px; }
+  .know-about-us.vc_custom_1497961085027 {
+    background: transparent !important;
+  }
+/*************************************** Contact page *********************************/
+  .half-fields label {
+    width: 100%;
+  }
+  .media-text { margin: 15px 0; }
+  .textwidget .wpcf7 form label { display: block; }
+  .topbutton {    bottom: 20px; }
+  .copyright p {
+    padding: 0 30px;
+    text-align: center;
+  }
+  .fa.fa-pencil {
+    top: 23px;
+  }
+  .bio-pic {
+    float: none; 
+    text-align: center;
+    clear: right;
+  }
+  .contact-page-form .fa.fa-pencil {
+    top: 23px;
+  }
+
+
+
+}

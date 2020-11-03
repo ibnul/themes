@@ -1,0 +1,8 @@
+[18-Nov-2019 16:25:00 America/Chicago] PHP Fatal error:  Call to undefined function get_bloginfo() in /home2/janethmor01/public_html/wp-content/themes/wsbd-morenolaw/404.php on line 4
+[14-Dec-2019 03:44:18 America/Chicago] PHP Fatal error:  Call to undefined function get_bloginfo() in /home2/janethmor01/public_html/wp-content/themes/wsbd-morenolaw/404.php on line 4
+[16-Dec-2019 03:36:52 America/Chicago] PHP Fatal error:  Call to undefined function get_bloginfo() in /home2/janethmor01/public_html/wp-content/themes/wsbd-morenolaw/404.php on line 4
+[12-Jan-2020 02:55:44 America/Chicago] PHP Fatal error:  Call to undefined function get_bloginfo() in /home2/janethmor01/public_html/wp-content/themes/wsbd-morenolaw/404.php on line 4
+[15-Jan-2020 02:55:41 America/Chicago] PHP Fatal error:  Call to undefined function get_bloginfo() in /home2/janethmor01/public_html/wp-content/themes/wsbd-morenolaw/404.php on line 4
+[17-Apr-2020 22:10:27 America/Chicago] PHP Fatal error:  Call to undefined function get_bloginfo() in /home2/janethmor01/public_html/wp-content/themes/wsbd-morenolaw/404.php on line 4
+[25-Apr-2020 17:56:43 America/Chicago] PHP Fatal error:  Call to undefined function get_bloginfo() in /home2/janethmor01/public_html/wp-content/themes/wsbd-morenolaw/404.php on line 4
+[09-Jun-2020 18:53:54 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/janethmor01/public_html/wp-content/themes/wsbd-morenolaw/index.php on line 13
